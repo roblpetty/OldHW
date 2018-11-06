@@ -5,7 +5,9 @@
 // Assignment: 4
 // IDE: IntelliJ
 
-
+/*
+New text for git commit
+*/
 public class Queue_Robert_Petty
 {
 	private Node head, tail;
